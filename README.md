@@ -12,7 +12,9 @@ MakeItSo converts Visual Studio solutions to gcc makefiles for Linux. It will co
 Current version (1.2)
 ---------------------
 
-Version 1.2 supports C++ and C# VS 2008 and VS 2010 solutions: * **C++** projects are converted to gcc builds. Converts executables, static libraries, and DLLs into equivalent gcc makefiles. * **C#** projects are converted to mono builds. Converts executables and libraries (including WinForms executables and WinForms custom controls) into equivalent mono makefiles.
+Version 1.2 supports C++ and C# VS 2008 and VS 2010 solutions:
+* **C++** projects are converted to gcc builds. Converts executables, static libraries, and DLLs into equivalent gcc makefiles.
+* **C#** projects are converted to mono builds. Converts executables and libraries (including WinForms executables and WinForms custom controls) into equivalent mono makefiles.
 
 
 Do you want to make MakeItSo even better?
@@ -26,10 +28,10 @@ Details and links
 
 Many self-contained solutions can be converted just by running MakeItSo against the solution file. For more complex solutions, you can provide extra information to MakeItSo, for example to replace Windows-specific external libraries with Linux versions.
 
-* See the wiki for more details about how to convert more complex projects.
-* See the project roadmap for planned future developments.
-* See how to report problems if MakeItSo does not convert a Visual Studio solution correctly.
-* Thanks and acknowledgements
+* See the [wiki](Wikis/) for more details about how to convert more complex projects.
+* See the [project roadmap](Wikis/ProjectRoadmap.md) for planned future developments.
+* See [how to report problems](Wikis/HowToReportProblems.md) if MakeItSo does not convert a Visual Studio solution correctly.
+* [Thanks and acknowledgements](Wikis/ThanksAndAcknowledgements.md)
 
 
 Quick start
