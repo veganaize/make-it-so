@@ -20,7 +20,7 @@ Version 1.2 supports C++ and C# VS 2008 and VS 2010 solutions:
 Do you want to make MakeItSo even better?
 -----------------------------------------
 
-I am no longer actively enhancing MakeItSo. If you want to become a contributor or the 'owner' of this project, please mail me at richard_s_shepherd{at}yahoo.co.uk.
+If you want to contribute to this project, please fork & submit a pull request. Richard S. Shepherd is no longer actively enhancing MakeItSo.
 
 
 Details and links
