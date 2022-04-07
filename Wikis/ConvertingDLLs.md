@@ -65,7 +65,7 @@ BOOL APIENTRY DllMain(
       break;
   }
 
-return TRUE;
+  return TRUE;
 }
 
 #endif
