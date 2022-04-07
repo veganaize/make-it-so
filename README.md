@@ -54,4 +54,4 @@ If MakeItSo is not on the path, or if you want to convert a solution that is in 
 MakeItSo must be run from Windows, as it uses Visual Studio automation to parse the solution and project files.
 
 
-_Automatically exported from code.google.com/p/make-it-so_
+_Originally exported from [code.google.com/p/make-it-so](http://code.google.com/p/make-it-so)_
